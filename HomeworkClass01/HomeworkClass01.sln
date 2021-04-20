@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{619471FF-2E43-4277-8803-884A88C2327D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plays RPS", "Plays RPS\Plays RPS.csproj", "{4321BAFB-C921-4CDF-9292-BC8F01B7643B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619471FF-2E43-4277-8803-884A88C2327D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619471FF-2E43-4277-8803-884A88C2327D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619471FF-2E43-4277-8803-884A88C2327D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619471FF-2E43-4277-8803-884A88C2327D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4321BAFB-C921-4CDF-9292-BC8F01B7643B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4321BAFB-C921-4CDF-9292-BC8F01B7643B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4321BAFB-C921-4CDF-9292-BC8F01B7643B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4321BAFB-C921-4CDF-9292-BC8F01B7643B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860498AE-5081-463E-BF78-3E5FEB2E3260}
+	EndGlobalSection
+EndGlobal
