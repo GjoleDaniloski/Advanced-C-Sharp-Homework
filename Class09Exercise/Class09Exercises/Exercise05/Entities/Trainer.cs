@@ -22,7 +22,7 @@ namespace Exercise05.Entities
         {
             Console.WriteLine("Proccessing data...");
             Thread.Sleep(3000);
-            SendMessage($"{trainerName} informs {groupNumber}: {message}");
+            SendMessage($"{trainerName} informs G{groupNumber}: {message}");
         }
     }
 }
